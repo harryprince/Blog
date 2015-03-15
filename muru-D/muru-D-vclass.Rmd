@@ -1,0 +1,47 @@
+---
+title: "【Inside】muru-D，来自澳洲的孵化器"
+author: "HarryZhu"
+date: "March 15, 2015"
+output: html_document
+---
+![muru-D](https://muru-d.com/media/backgrounds/MuruD1i.jpg)
+
+3月13日中午12时30分，[muru-D](https://muru-d.com/)在theNode极地国际创新中心举行muru-D孵化项目专场pitch，本次活动聚集了80多位来自中国和澳洲的投资人和创业者。
+
+muru-D是澳洲电信公司Telstra旗下的创业加速器，由澳大利亚通讯部长Malcolm Turnbull创办于 2013 年 10 月。成立至今，muru-D 已经接受了两期共计20个早期项目，他们募集了一个$40，000的种子基金以换取每个项目6%的股权。此外，muru-D还为创业项目提供6个月的写作办公空间、专业咨询师辅导、澳洲电信公司Telstra的关系网以及其他途径的商业资源。
+
+本次pitch有来自muru-D二期的11个接地气的项目参加，其中包括教育、旅游、物流、智能硬件、运动、建材等多个领域：
+
+1. [CrowdSourceHire](http://www.crowdsourcehire.com/) – 通过来自科技领域的专家小组对技术人员进行严谨技术评估的网络平台。 它能够帮助你聘用到最合适的科技类行业候选人。
+                                                                                  
+2. [Disrupt](http://www.disruptsurfing.com/) – 通过采用3D建模打印技术来制作个性化冲浪板与其他体育用品网上销售平台。
+
+3. [Fanfuel](http://www.fanfuel.co/) – 连接运动员和体育赞助商的在线平台。它使品牌公司能够轻松搜索运动员，获得安全有保障的赞助合同，并测量它们的投资回报率；同时它也帮助运动员了解他们自身的市场潜力。
+
+4. [Freight Exchange](http://www.freightexchange.com.au/) – 帮助长途货运公司与客户建立良好连接的网络平台。它使得货运公司能够更高效的利用其产能，减少运输路途的空载量。
+
+5. [Funetics](http://www.learningfunetics.com/) － Funetics是一个学习英文的语音技术平台。它帮助世界各地的用户掌握正确的英语发音和提高用户对英文的理解力。
+
+6. [Instrument Works](http://www.instrument-works.com/) – 使实验室、田地以及工厂收集数据程序简易化，并通过由智能手机控制的和互联网链接的传感器设备来提供可靠和准确的信息。
+
+7. [SoccerBrain](http://soccerbra.in/) – 帮助足球俱乐部来管理球员的训练、培训和发展的网上平台。
+
+8. [Tripalocal](http://www.tripalocal.com/) – 在线平台连接旅行者和当地人，使旅行者有机会享受到正宗的当地体验－它提供像Airbnb一样的纯粹地方体验。
+
+9. [Vclass](http://www.vclass.com.au/) - 有史以来第一个混合模式的教育平台。它通过结合互联网， VoIP和传统的纸笔教育模式，来创造一个全新的网上面对面教学体验。
+
+10. [Wattblock](http://www.wattblock.com.au/) – 为住宅和商业用途的建筑提供快速的，个性化的，网络化的节能减排路线图，从而改善需要现场能源审计人员或安装硬件设备的高成本现状。
+
+11. [You Chews](http://www.youchews.com/) – 为会议和活动提供美味的在线餐饮平台。
+
+在这11个来自澳洲的优质项目中，最有科技感的产品当属**Vclass**。
+
+![Vclass](https://raw.githubusercontent.com/harryprince/Blog/master/muru-D/big-muru-D/big-vclass-1.jpg)
+**Vclass**成立于2014年12月，它的产品由硬件、软件两部分构成。通过蓝牙将智能笔与PC连接，在普通的笔记本上书写，PC端便可实时显示书写的内容。在Vclass之前，如何在小范围内精确识别笔或手的空间位置一直是一个行业难题。此前类似的解决方案还包括：不可更换笔记本的[Evernote智能笔记本](http://item.taobao.com/item.htm?spm=a230r.1.14.19.ZfP0Qa&id=16852625167&ns=1&abbucket=18#detail)(￥158)和[Smart Kapp白板](http://www.damanwoo.com/node/85736)($899)，高昂的价格成为了阻止消费者掏腰包的主要因素。而Vclass由于实体材料只有一支简单的智能笔，所以在成本和定价上占据想当大的优势，或许这才能真正开启远程教育和办公的时代。
+
+Vclass的创业三剑客是Vahid Kolahdouzan(co-founder)、Masoud Kolahdouzan(CEO) 和  Shoaleh Baktashi(CTO)。其中，硬件负责人是来自伊朗的Vahid（原Nokia工程师），软件负责人则是由澳洲的Shoaleh(原VMware工程师)，首席执行官则由会计背景的Masoud担任。三位不同领域、不同国家的大牛，通过全新的智能算法，重新连接了智能笔和智能笔记本，极大地降低了书写电子化的成本，解放了传统依赖于固定书写材料的尴尬窘境，使得智能笔记本真正地智能起来！
+**Vclass**的CEO Masoud说：“通过Vclass，你可以方便地同步你在笔记上的内容到PC中，在线的教学演示从此变得方便简单，目前，在澳洲官网的订阅服务的最低价格是$9每月，而硬件是免费提供的。”
+
+或许硬件免费、软件收费这样的商业模式在中国并不一定行得通。不过，如果硬件的价格可以在100元以下，而订阅费用在10元/月以下，相信很多人都会被这样有诚意的价格所打动。毕竟，至少理科生可以将自己草稿纸上的公式更好地管理，文科生可以将自己在的天马行空和灵光乍现轻松地同步在云端。
+
+Masoud说:“我们的项目之所以能够取得如此快速的进展，得益于早期顺利的融资和加速器的导师指引。我们少走了很多弯路，并且可以更好地专注于产品研发和市场开拓。”显然，来自澳洲的muru-D是我们学习的榜样！
