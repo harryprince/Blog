@@ -2,7 +2,7 @@
 title: "【Inside】muru-D，来自澳洲的孵化器"
 author: "HarryZhu"
 date: "March 15, 2015"
-output: html_document
+output: word_document
 ---
 ![muru-D](https://muru-d.com/media/backgrounds/MuruD1i.jpg)
 
