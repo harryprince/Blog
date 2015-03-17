@@ -4,7 +4,7 @@ author: "Angela Liu"
 date: "March 17, 2015"
 output: html_document
 ---
-![ChinaBang Awards 2015]()
+![ChinaBang Awards 2015](https://raw.githubusercontent.com/harryprince/Blog/master/ChinaBang2015/ChinaBang2015.jpg)
 [ChinaBang Awards 2015](http://chinabang.technode.com)是[动点科技](http://cn.technode.com)主办的年度盛典，将于2015年3月28日如期举行。上午安排2014年最火热的创业城市–杭州专场，下午是创业者最受欢迎的TED形式干货分享，晚宴将以奥斯卡颁奖形式进行。本次大会将不同于以往，与会观众将由活跃在市场中的300位[XFounder](http://xfounder.com)成员、150位投资人、50位专业媒体人构成，并邀请在互联网行业内最资深最有发言权的成功行业精英加入我们的导师分享阵容，为2015年中国互联网创业者做一场最权威最客观的年度盛典！
 ———————————————————
 
