@@ -2,7 +2,7 @@
 title: "【Inside】muru-D，来自澳洲的孵化器"
 author: "Angela Liu"
 date: "March 15, 2015"
-output: word_document
+output: html_document
 ---
 ![muru-D](https://muru-d.com/media/backgrounds/MuruD1i.jpg)
 

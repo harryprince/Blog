@@ -1,0 +1,61 @@
+---
+title: "【startup-daily】这一次，Instrument Works跨界来到了风口"
+author: "Angela Liu"
+date: "March 16, 2015"
+output: html_document
+---
+
+物联网和智能家居是被誉为[下一个风口的“猪”](http://www.netofthings.cn/GuoNei/2015-01/4051.html)。据Bain and Company的研究显示, 现今（全球）对于硬件，软件和服务的开销可达到700亿。此外截止于2017年，和电脑相关的经济产业更可以达到1.4万亿。另一项从Gartner公司对全球市场做出的预期显示，到2020，在使用的物联网产品将达到250亿个。
+
+众所周知，环境污染已经成为制约中国发展的重要问题之一。在穹顶之下的洗礼之后，[环保产业](http://city.ifeng.com/a/20150313/418824_0.shtml)不在是昔日的纸上谈兵，逐渐成为一项全民运动，各路土豪也跃跃欲试，企图在这个万亿产业中分到一杯羹，而[Instrument Works](www.instrument-works.com)就是其中之一。
+
+下面是来自**Instrument Works**的介绍：
+**什么是Instrument Works？**
+Instrument Works融合了最新的无线交流、互联网链接和云数据管理技术，已经开发出一套一体化技术解决方案。这套方案会使科学器材与用户的互动方式、信息管理和共享方式得到革新。
+
+* 融合了最新的无线交流、互联网连接和云数据管理技术；
+* 无线连接并管理多个不同感应器或其他仪器；
+* 无缝获取、共享和管理不同仪器生成的各种数据。
+
+## Instrument Works 的一体化解决方案
+* 感应器: 
+Instrument Works 开发的解决方案具有强大的系统兼容性－用户可以使用一系列 Instrument Works 或其他公司开发的感应器。
+
+* Bluebox蓝牙装置： 低耗能蓝牙技术，Instrument Works的Bluebox装置可以使指定的感应器或探测仪器连接到用户的手机或平板电脑上
+
+* IWConnect软件：运用免费的IWCollect App，用户可以通过直观并简易的操作将他们的手机或平板电脑变成一个多功能管理中心，便于数据收集和各感应器的控制。
+
+* IWCloud 云服务：客户可以把他们的数据保存在手机，平板电脑里或无缝上传到 IWCloud“云”便于数据的储存和分析。
+
+初期目标客户： 大学或政府的研究机构。中国拥有超过2400所院校，每年通入研究经费超过3000亿元。
+
+目标市场：水质检测
+
+其他客户：公司的研究机构，工厂等。
+
+在澳大利亚，我们已经将产品销售给部分世界一流大学，例如新南威尔士大学（UNSW）
+
+
+
+
+
+ 1. [Instrument Works](http://www.instrument-works.com/)是由一个高度专业的科学家和工程师团队创立的一家澳大利亚公式。创始团队具有大量的R&D经验，并且在技术开发、产品运营和商业化上都有许多成功经验。
+                                                                                  Instrument Works的团队主要由3位博士组成：Shane Cox、Leong Mar、Leong Mar
+                                                                                  
+                                                                                  
+                                                                                  * [Shane Cox](https://www.linkedin.com/in/ShanejCox)![Shane Cox](https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1c4/1ed/378da81.jpg) 新南威尔士大学化学工程博士，CEO
+                                                                                  
+                                                                                  Shane作为一个前研究员，在水处理技术，研究数据管理平台和eResearch工具的开发上有深厚的经验。曾为澳洲的新南威尔士大学的研究人员引入心的数据存储机制，并开发了大数据的收集和管理工具。在科研和数据处理两个领域的经验使得Shane在为Instrument Works实现科学仪器的链接上独具慧眼。
+                                                                                  
+                                                                                  * [Leong Mar](https://www.linkedin.com/in/leongmar)![Leong Mar](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/02f/16d/0e87f78.jpg) 新南威尔士大学博士，COO
+                                                                                  
+                                                                                  Leong在科学和技术领域已经有超过20年的经验了。近10年来，Leong在全球领先的科技公司Dupont中出任澳新技术中心主任等要职，有着丰富的科技企业运营经验。
+                                                                                  
+                                                                                  * [Leong Mar](https://www.linkedin.com/in/willlawler)![Leong Mar](https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/059/10e/072f3fb.jpg) 新南威尔士大学博士，生产研发和售后服务
+                                                                                  
+                                                                                  Will在水处理、分析化学、环境监测、数据管理及分析上有着强大的背景。Will在悉尼水处理厂担任运营官，为不同水源进行水质监测。
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  Instrument的产品是
+                                                                                  使实验室、田地以及工厂收集数据程序简易化，并通过由智能手机控制的和互联网链接的传感器设备来提供可靠和准确的信息。
