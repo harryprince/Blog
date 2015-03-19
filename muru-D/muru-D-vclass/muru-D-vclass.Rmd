@@ -4,7 +4,6 @@ author: "Angela Liu"
 date: "March 15, 2015"
 output: html_document
 ---
-![muru-D](https://muru-d.com/media/backgrounds/MuruD1i.jpg)
 
 3月13日中午12时30分，[muru-D](https://muru-d.com/)在theNode极地国际创新中心举办了muru-D孵化项目专场pitch，本次活动聚集了80多位来自中国和澳洲的投资人和创业者。
 
