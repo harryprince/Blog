@@ -5,7 +5,7 @@ date: "March 18, 2015"
 output: word_document
 ---
 ![muru-D](https://muru-d.com/media/backgrounds/MuruD1i.jpg)
-上一期，我们简单介绍了[muru-D](https://muru-d.com/)的2期项目，今天我们继续介绍[muru-D的一期项目](http://www.startupdaily.net/2014/08/live-muru-d-demo-evening-startupaus/)。
+    muru-D的故事依然没有结束。上回，我们简单介绍了[muru-D](https://muru-d.com/)的2期优质项目，这一次，我们挖掘历史，介绍一下[他们的1期优质项目](http://www.startupdaily.net/2014/08/live-muru-d-demo-evening-startupaus/)。
 muru-D的一期项目共9个，涉足教育、农业、图像处理、管理等多个领域：
 
 1. [Chatty Kidz](www.chattykidz.com)针对K12教育领域，将教学内容和Skype的即时通讯结合在一起，在父母的帮助下科学地引导孩子们通过使用家庭学习App来提升阅读能力。
@@ -28,7 +28,7 @@ muru-D的一期项目共9个，涉足教育、农业、图像处理、管理等�
 
   其中，[Ken Taggart](http://www.linkedin.com/company/chatty-kidz)带着和[Vclass](http://www.vclass.com.au/)同样在教育领域声名鹊起的**ChattyKidz**项目，于本月15日再次来到中国举行了pitch活动。[ChattyKidz](www.chattykidz.com)的最初的灵感源自于Ken Taggart的母亲的牢骚。她总抱怨小孩与自己通过远程视频一起阅读时孩子无法集中精神。深究其原因，她发现是因为孩子们对软件中自带的图书失去了兴趣。为了解决孩子的教育问题，曾经她也考虑过通过聘请家教，但在美国高达$60/小时的家教费用使她不得不放弃。最终，ChattyKidz的CEO，Ken Taggart受此启发决定重新开发一个家庭教育软件。
   在ChattyKidz出现之前，在亲子教育领域的领头羊分别是来自澳洲的[Kindoma](http://kindoma.com/)和来自美国的[Ustyme](http://www.ustyme.com/index.html)。
-  ![Kindoma_Ustyme]()
+  ![Kindoma_Ustyme](https://raw.githubusercontent.com/harryprince/Blog/master/muru-D/muru-D-ChattyKidz/kindoma-ustyme.png)
   Kindoma和Ustyme均能让家长和孩子在ipad应用中通过skype的视频功能一起阅读，但既不能直接快速订阅个性化的阅读内容也不能使用个人的阅读材料。
 	受够了图书库里千篇一律的**“三只小猪”们**的故事书，这一次，ChattyKidz带来了变革！ChattyKidz不仅提供自由的阅读内容而且针对不同兴趣爱好、不同阅读阶段的孩子们提供海量的免费图书。目前，ChattyKidz已上线由大出版商提供的1000余种适合不同阅读水平的图书在App Store上可供下载，满足不同年级学生的学校课程的要求。除此之外，ChattyKidz的订阅用户（$9.99/月）可以得到专业的阅读水平鉴定，根据孩子们的阅读水平匹配更加有效的阅读材料并制定详细的阅读计划。而高级用户（$19.99/月）甚至可以得到一对一的阅读辅导！更振奋人心的是，Chattykidz正计划对数百万渴望学习的弱势儿童伸出援手，提供难以置信的超低价服务（每用户$2/月）。总之，ChattyKidz不仅仅是父母和孩子们在iPad上沟通娱乐的玩具，而是真正提升孩子们阅读能力的效率帮手。
 	令人可惜的是，面对中国这样广阔的市场，这些国际产品似乎有些水土不服，上述软件在全面开拓中国市场的动作上并不迅速。在中国，由于优质教育资源的不均衡，人们通常还是倾向于自己面对面地教育小孩或者通过上老师的辅导班来提高学习成绩。但是，这片蓝海一旦打通，将极大地减少每个家庭在辅导班上的支出。或许今后不仅仅是阅读，通过这些应用管理孩子们的练习册和亲子游戏是一个前景广阔的方向。此外，单一通过订阅软件的收费模式，也将受到质疑。在中国，人们对软件基本没有形成付费的意识。或许，和[Vclass](http://cn.technode.com/)的硬件捆绑销售将是一个不错的商业方向。
