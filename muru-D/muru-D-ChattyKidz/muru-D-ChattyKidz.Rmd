@@ -6,7 +6,7 @@ output: word_document
 ---
 ![muru-D](https://muru-d.com/media/backgrounds/MuruD1i.jpg)
     muru-D的故事依然没有结束。上回，我们简单介绍了[muru-D](https://muru-d.com/)的2期优质项目，这一次，我们挖掘历史，介绍一下[他们的1期优质项目](http://www.startupdaily.net/2014/08/live-muru-d-demo-evening-startupaus/)。
-muru-D的一期项目共9个，涉足教育、农业、图像处理、管理等多个领域：
+muru-D共有9个一期项目，分别涉足教育、农业、图像处理、管理等多个领域：
 
 1. [Chatty Kidz](www.chattykidz.com)针对K12教育领域，将教学内容和Skype的即时通讯结合在一起，在父母的帮助下科学地引导孩子们通过使用家庭学习App来提升阅读能力。
 
