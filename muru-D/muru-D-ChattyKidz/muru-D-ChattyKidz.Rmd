@@ -2,7 +2,7 @@
 title: "muru-D-chattykidz"
 author: "Angela Liu"
 date: "March 18, 2015"
-output: html_document
+output: word_document
 ---
 ![muru-D](https://muru-d.com/media/backgrounds/MuruD1i.jpg)
     muru-D的故事依然没有结束。上回，我们简单介绍了[muru-D](https://muru-d.com/)的2期优质项目，这一次，我们挖掘历史，介绍一下[他们的1期优质项目](http://www.startupdaily.net/2014/08/live-muru-d-demo-evening-startupaus/)。
