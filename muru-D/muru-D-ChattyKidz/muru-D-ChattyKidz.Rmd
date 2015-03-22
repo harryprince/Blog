@@ -11,7 +11,7 @@ output: html_document
 
 2. [FarmBot](www.farmbot.com.au)是一个革命性的监控系统，致力于联通农场、远程设施和环境状况，显著地下降养殖场和远程站点的成本和风险,将农场在手中轻而易举地全面监控。
 
-3. [Lime Rocket](limerocket.com)利用我们的特殊网络，让活动现场的观众能够连接所有的智能手机，并显示到电子屏幕上，一同进行群体性的游戏。
+3. [Lime Rocket](limerocket.com)利用我们的特殊网络，让所有现场观众的智能手机能够相互连接，并显示到电子屏幕上，一同进行群体性的游戏。
 
 4. [Momentum Cloud](www.momentumcloud.com)辅助老师为儿童教育提供全面的学习分析，为每个孩子定制个性化的学习方案以提升教学效果。
 
