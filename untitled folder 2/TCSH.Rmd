@@ -1,0 +1,32 @@
+---
+title: "TC上海招募志愿者：吉林财经大学CF社团专场"
+author: "Angela Liu"
+date: "April 13, 2015"
+output: html_document
+---
+![上海](http://cn.technode.com/files/2013/10/shanghai_skyline.jpg)
+
+[TechCrunch](tc.technode.com)是全球顶尖的科技媒体,[TechCrunch 国际创新峰会上海站](http://tc.technode.com/ticket)6月8-9号两天在[上海西岸艺术中心](http://map.baidu.com/?newmap=1&l=15&c=13521963.087491,3633111.197981&s=nb%26wd%3D%25E4%25B8%258A%25E6%25B5%25B7%25E8%25A5%25BF%25E5%25B2%25B8%25E8%2589%25BA%25E6%259C%25AF%25E4%25B8%25AD%25E5%25BF%2583%26c%3D289%26nb_x%3D13521963.087491%26nb_y%3D3633111.197981)举行。
+本次大会的门票正常价格为2500元/天。目前大会正在招募志愿者，欢迎年满 18 周岁、英文流畅、对志愿服务充满热情、能够保证全程参与会前培训和大会服务的同学报名。我们有30个名额，你可以 [现在申请!](tc.technode.com/volunteer)
+
+你将收获一件 [TechCrunch](http://techcrunch.com) 中国文化衫[（样子类似 这样）](http://weibo.com/3561737261/A76Y8jowV?mod=weibotime&sudaref=cn.technode.com&type=comment#_rnd1428935999955)，服务期间免费午餐，以及和硅谷最牛逼的投资人还有创业者中国最棒的创业公司近距离接触的机会。
+
+我们希望你有良好的沟通协作能力和极佳的敬业精神。有下列情况可以在报名过程中加分：
+
+可穿戴设备、Big Data、创业、Geek、创客、融资、Social Media、互联网金融…如果你觉得这些词语每天就在你的生活中游荡。加分。
+如果你能跟老外谈笑风生。加分。
+
+时间安排和费用:
+本次活动的培训时间待定，预计在大会开始前的2-3天。所以志愿者需要保证前后5天的时间可以来到活动现场。
+志愿者由于来自全球各地，路费、住宿费需要自理。我们将提供活动期间（6月8-9号）的午饭和大会T-shirt。
+
+报名时间到大会培训前2天截止，名额有限，先到先得。
+
+如有问题，请发邮件到 harry@technode.com 咨询。
+
+[现在申请！（30 个名额）](tc.technode.com/volunteer)
+
+后记：
+2013年，CF11级的组长Harry（李珊以前的组长）第一次参加了TC上海的志愿者活动，现在，Harry成为了动点科技的后端Python实习工程师；CF11级的组长 银燕参加了2014年TC北京的活动，现在她刚刚从美国结束审计实习。
+
+全球化的眼界，从TechCrunch上海开始，这一次带给你的是真正的可能性！优秀的志愿者将有机会得到[TechNode](http://www.technode.com)实习生机会！
