@@ -6,8 +6,8 @@ output: html_document
 ---
 ![上海](http://cn.technode.com/files/2013/10/shanghai_skyline.jpg)
 
-[TechCrunch](tc.technode.com)是全球顶尖的科技媒体,[TechCrunch 国际创新峰会上海站](http://tc.technode.com/ticket)6月8-9号两天在[上海西岸艺术中心](http://map.baidu.com/?newmap=1&l=15&c=13521963.087491,3633111.197981&s=nb%26wd%3D%25E4%25B8%258A%25E6%25B5%25B7%25E8%25A5%25BF%25E5%25B2%25B8%25E8%2589%25BA%25E6%259C%25AF%25E4%25B8%25AD%25E5%25BF%2583%26c%3D289%26nb_x%3D13521963.087491%26nb_y%3D3633111.197981)举行。
-本次大会的门票正常价格为2500元/天。目前大会正在招募志愿者，欢迎年满 18 周岁、英文流畅、对志愿服务充满热情、能够保证全程参与会前培训和大会服务的同学报名。我们有30个名额，你可以 [现在申请!](tc.technode.com/volunteer)
+[TechCrunch](http://www.techcrunch.com)是全球顶尖的科技媒体,[TechCrunch 国际创新峰会上海站](http://tc.technode.com/ticket)6月8-9号两天在[上海西岸艺术中心](http://map.baidu.com/?newmap=1&l=15&c=13521963.087491,3633111.197981&s=nb%26wd%3D%25E4%25B8%258A%25E6%25B5%25B7%25E8%25A5%25BF%25E5%25B2%25B8%25E8%2589%25BA%25E6%259C%25AF%25E4%25B8%25AD%25E5%25BF%2583%26c%3D289%26nb_x%3D13521963.087491%26nb_y%3D3633111.197981)举行。
+本次大会的门票正常价格为2500元/天。目前大会正在招募志愿者，欢迎年满 18 周岁、英文流畅、对志愿服务充满热情、能够保证全程参与会前培训和大会服务的同学报名。我们有30个名额，你可以 [现在申请!](http://tc.technode.com/volunteer)
 
 你将收获一件 [TechCrunch](http://techcrunch.com) 中国文化衫[（样子类似 这样）](http://weibo.com/3561737261/A76Y8jowV?mod=weibotime&sudaref=cn.technode.com&type=comment#_rnd1428935999955)，服务期间免费午餐，以及和硅谷最牛逼的投资人还有创业者中国最棒的创业公司近距离接触的机会。
 
