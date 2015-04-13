@@ -24,7 +24,7 @@ output: html_document
 
 如有问题，请发邮件到 harry@technode.com 咨询。
 
-[现在申请！（30 个名额）](tc.technode.com/volunteer)
+ [现在申请!(30个名额)](http://tc.technode.com/volunteer)
 
 后记：
 2013年，CF11级的组长Harry（李珊以前的组长）第一次参加了TC上海的志愿者活动，现在，Harry成为了动点科技的后端Python实习工程师；CF11级的组长 银燕参加了2014年TC北京的活动，现在她刚刚从美国结束审计实习。
