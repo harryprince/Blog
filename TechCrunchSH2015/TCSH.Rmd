@@ -24,8 +24,3 @@ output: html_document
 如有问题，请发邮件到 harry@technode.com 咨询。
 
  [现在申请!(30个名额)](http://tc.technode.com/volunteer)
-
-后记：
-2013年，CF11级的组长Harry（李珊以前的组长）第一次参加了TC上海的志愿者活动，现在，Harry成为了动点科技的后端Python实习工程师；CF11级的组长 银燕参加了2014年TC北京的活动，现在她刚刚从美国结束审计实习。
-
-全球化的眼界，从TechCrunch上海开始，这一次带给你的是真正的可能性！优秀的志愿者将有机会得到[TechNode](http://www.technode.com)实习生机会！
