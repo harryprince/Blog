@@ -1,5 +1,5 @@
 ---
-title: "TC上海招募志愿者：吉林财经大学CF社团专场"
+title: "TC上海招募志愿者"
 author: "Angela Liu"
 date: "April 13, 2015"
 output: html_document
